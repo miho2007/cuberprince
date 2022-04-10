@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cuberprince
+- 👋 Hi, I’m @cyberprince
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: mzhaviamikheil@gmail.com
